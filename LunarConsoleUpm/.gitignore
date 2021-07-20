@@ -23,14 +23,3 @@ sysinfo.txt
 
 # Temp files
 RegisterIcalls.cpp
-
-# Ignore native part
-/Assets/LunarConsole/Editor/iOS
-/Assets/LunarConsole/Editor/iOS.meta
-
-/Assets/LunarConsole/Editor/Android
-/Assets/LunarConsole/Editor/Android.meta
-
-# Ignore generated plugin
-/Assets/Plugins
-/Assets/Plugins.meta
