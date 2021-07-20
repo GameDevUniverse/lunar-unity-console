@@ -1,0 +1,7 @@
+{
+  "name": "com.GameDevUniverse.LunarConsoleUpm",
+  "displayName": "lunar-unity-console-upm",
+  "version": "1.8.4",
+  "description": "In-game powerful debug console",
+  "dependencies": {}
+}
